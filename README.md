@@ -6,6 +6,8 @@
 
 This tool provides a user-friendly interface for seamlessly managing your Discord friends list, especially for those who frequently hit the 1,000 friends limit on Discord. I created this tool to help myself and others who need an efficient way to remove friends. It includes features to mimic human behavior to reduce the likelihood of being flagged for automation, making the process more lenient and manageable.
 
+![screenshot](https://i.ibb.co/NNHDTvN/image.png)
+
 ## Features
 
 - **Set Authorization Token:** Enter your Discord token to authenticate the tool.
