@@ -392,7 +392,7 @@ This tool provides a user-friendly interface for seamlessly managing your Discor
 
                 const friendName = document.createElement('span');
                 friendName.className = 'friend-name';
-                friendName.textContent = `${friend.user.username}#${friend.user.discriminator}`;
+                friendName.textContent = `${friend.user.username} / ${friend.user.global_name}`;
 
                 friendItem.appendChild(checkbox);
                 friendItem.appendChild(friendName);
